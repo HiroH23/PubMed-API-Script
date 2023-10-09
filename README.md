@@ -1,5 +1,6 @@
-# PubMed-API-Script
-API script with flexible query and simple EDA and analysis
+# PubMed-PubTator-API-Script
+API script with flexible query and simple EDA and analysis with PubMed and PubTator
+Trying to retrieve PMID from PubMed and then to retrieve annotated genes/proteins and diseases from PubTator.
 
 ## What's this?
 - This is the python script use for get huge PubMed data from NCBI API.  
